@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The historie of Edvvard the Fourth, King of England. By Wm. Habington EsquireHabington, William, 160
+
+1. TO THE KINGS MOST SACRED MAIESTIE.
+
 #####Body#####
-The historie of Edvvard the Fourth, King of England. By Wm. Habington EsquireHabington, William, 160
+
+1. THE HISTORIE OF EDWARD THE FOVRTH KING OF ENGLAND.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
